@@ -8,18 +8,19 @@ layout: page
 
 ### Hey there!
 
-I'm Victor, and I'm a data scientist. 
+I'm Hiep and welcome to my blog
 
-I currently work as an Applied Data Scientist at [Civis Analytics]("https://www.civisanalytics.com/"). 
-At Civis, I collaborate with a multi-disciplinary team to develop custom apps that empower clients to make business decisions backed by data and scientific rigor. 
-As a data scientist, my roles have ranged from developing ETL infrastructure, to deploying machine learning models -- all while working closely with our clients to cultivate a relationship.
-I've also authored white papers about various topics in healthcare, such as how persuasive messaging can [impove HPV vaccination rates]("https://civisanalytics.wpengine.com/wp-content/uploads/2019/11/HC_HPV_2019_digital.pdf"), tactics that can [improve clinical trial enrollment]("https://www.civisanalytics.com/wp-content/uploads/2019/03/Clinical-Trials-Survey-Writeup-.pdf") and the growing demand for [virtual healthcare]("https://civisanalytics.wpengine.com/wp-content/uploads/2019/11/HC_Telehealth_2019_digital.pdf").
+I currently work on Python development and Microsoft BI certification.
+Before I worked as an Finacial Data analyst at [Vietnam Construction Bank]("https://www.cbbank.vn/"). 
+At Cbbank, I collaborate with a IT team to develop custom web-apps that empower centralized processes to make business decisions faster and risked managable.
 
-I graduated from Michigan State University in 2017 with a BS in Physics and a minor in Computational Mathematics, Science, and Engineering.
-A once aspiring physicist, I was heavily involved in research, with stints at a condensed matter physics lab at MSU, a quantum computing lab at the University of Washington, then nuclear physics at the National Superconducting Cyclotron Laboratory at MSU.
-Though physics stimulated my itch for problem-solving, it was the application of these methods that drove me to become a data scientist.
+As a financial data analyst, my roles have ranged from developing traditional paper reporting to online financial dashboard and maintained the ETL infrastructure -- all while working closely with our internal and external stakeholders to cultivate a relationship.
 
-When I'm not professionally nerding about data science, you can catch me experimenting in the kitchen, blasting heavy metal, or climbing boulders. And probably wearing a band shirt.
+I've also a co-authored of research papers about various topics in healthcare, such as how persuasive messaging can [crytocurency]("https://civisanalytics.wpengine.com/wp-content/uploads/2019/11/HC_HPV_2019_digital.pdf").
+
+I graduated from Maastricht School of Management in 2019 with a Master degree in Business and Administration speciliazed in Financial and Accounting; and a Bachelor in Business Administration from Hoa Sen University.
+
+When I'm not professionally nerding about data science, you can catch me experimenting in the kitchen, investment heavily in cryptocurrency, ENS, or explore Swiss mountains.
 
 {% include figure.html image="/images/wallowas-bell-witch.jpg" position="center" %}
 
