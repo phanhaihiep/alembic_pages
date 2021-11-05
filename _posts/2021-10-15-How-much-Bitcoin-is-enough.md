@@ -1,18 +1,37 @@
 ---
-title: History of the Alembic
+title: How much Bitcoin is enough?
 categories:
-- History
-- External sources
+- Cryptocurrency
+
 feature_text: |
-  The History of the Alembic tool
+  How enough is enough
 ---
+( 2 minutes reading)
 
-Dioscorides' ambix (described in his De materia medica) is a helmet-shaped lid for gathering condensed mercury. For Athenaeus (~ 225 C.E.) it is a bottle or flask. For later chemists it denotes various parts of crude distillation devices.
+### How much #Bitcoin  is "enough?"
 
-<!-- more -->
+First, I would define “enough”. Enough to achieve your life goals, enough for your own ego, enough to be financially independent, enough to give your family a helpful financial support.
 
-Alembic drawings appear in works of Cleopatra the Alchemist, Synesius, and Zosimos of Panopolis. There were alembics with two (dibikos) and three (tribikos) receivers.[4] According to Zosimos of Panopolis, the alembic was invented by Mary the Jewess.[5]
+When  #BTC  moves firmly back into price discovery above 70k then every holder will experience #FONE ~ Fear of not enough.
 
-The anbik is described by Ibn al-Awwam in his Kitab al-Filaha (Book of Agriculture), where he explains how rose-water is distilled. Amongst others, it is mentioned in the Mafatih al-Ulum (Key of Sciences) of Khwarizmi and the Kitab al-Asrar (Book of Secrets) of Al-Razi. Some illustrations occur in the Latin translations of works which are attributed to Geber.[2]
+Actually it is, the Bitcoin supply circulation will be 21 million. We wouldn’t be able to get more than this number. Realistically devided everyone population in the world by 21 million. Then decide how much of that you would like to own/have influence over. The given number is 0.26 #btc ~ 260,000 sats (21 million divided by global population). So that anything above that is is a win.
 
-_Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+{% include figure.html image="/images/Bitcoin_prices.jpg" position="center" width="600" height="500" %}
+
+### So how much #Bitcoin  is "enough” to MAKE it in life?
+
+Supposing you "retire" on 2030 or after and we reach hyperbitcoinization AND that you can get a 4% real yield on your Bitcoin to have the equivalent of $50,000 dollars a year... I would say something like 0.12 Bitcoins is enough. And 0.26 Bitcoins return $100,000 a year is sufficient good.
+
+> Scenario 1:
+
+10M$ * 0.12 = 1.2M$
+
+1.2M$ * 0.04 = 48k$ / year
+
+> Scenario 2:
+
+10M$ * 0.26 = 2.6M$
+
+2.6M$ * 0.04 = 104$ / year
+
+Lets get off 0, fam!
