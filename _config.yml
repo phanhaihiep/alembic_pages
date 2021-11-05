@@ -29,11 +29,11 @@ plugins:
 - jekyll-paginate
 - jekyll-seo-tag
 - jekyll-redirect-from
+- jekyll-default-layout
 - jekyll-feed
 - jekyll-commonmark
 - jekyll-include-cache
 - jemoji
-- jekyll-remote-theme
 
 # 3. Gem settings
 paginate: 10 # jekyll-paginate > items per page
@@ -41,7 +41,7 @@ paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
   username: phanhaihiep # jekyll-seo-tag > Owners twitter username
-author: phanhaihiep # jekyll-seo-tag > default author
+author: Phan Hai Hiep # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
   name: Phan Hai Hiep # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
@@ -78,18 +78,6 @@ defaults:
       path: ""
     values:
       image: "/assets/default-social-image.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: post # Set the default layout for posts
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: page # Set the default layout for pages
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
