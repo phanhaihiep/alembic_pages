@@ -3,6 +3,12 @@ title: How expensive Swiss Education? a Master Program with University of St.Gal
 categories:
 - Personal Development
 feature_image: "https://picsum.photos/2560/600?image=872"
+feature_text: |
+  ## Education with Master level
+  The most wanted Business school in Europe.
+feature_image: "https://phanhaihiep.github.io/images/Hiep_Univerity_St_gallen.jpg"
+image: "https://phanhaihiep.github.io/images/Hiep_Univerity_St_gallen.jpg"
+---
 ---
 (5 Minutes reading)
 
