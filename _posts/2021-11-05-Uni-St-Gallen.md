@@ -1,10 +1,11 @@
 ---
-title: HOW EXPENSIVE SWISS EDUCATION? MASTER PROGRAM, A CASE WITH UNIVERSITY ST.GALLEN
+title: How expensive Swiss Education? a Master Program with University of St.Gallen.
 categories:
 - Personal Development
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
-5 Minutes reading
+(5 Minutes reading)
+
 ### What it is
 Switzerland offers the best education system in the world, in term of quality, facility, practical experience and flexibility. With a pleasure, I would bring you to a Elite Business School in Switzerland name University of St. Gallen, it is top 1 business school in Switzerland and has long history in their reputation name.
 
@@ -12,7 +13,7 @@ I went to an Information day to check it out and would be attempt to prepare for
 
 The information day agenda is pretty clear and well-structure, firstly conduct a general introduction and then campus-tour and lastly each program will have 1 hour to explain more in details. Choose the program you like and just walk in.
 
-
+{% include figure.html image="/images/Hiep_University_St_gallen.jpg" position="center" width="500" height="500" %}
 Way to main building Foyer
 
 
