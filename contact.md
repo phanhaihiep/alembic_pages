@@ -12,4 +12,4 @@ Feel free to download a PDF of my [Resume][1].
 
 {% include site-form.html %}
 
-[1]: https://victoreram.github.io/resume/Resume.pdf
+[1]: https://victoreram.github.io/resume/CV_PHANHAIHIEP.pdf
