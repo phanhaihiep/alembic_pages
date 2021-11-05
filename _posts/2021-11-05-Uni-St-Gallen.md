@@ -34,34 +34,27 @@ A master degree takes 18 months (1,5 years to 2 years) in various subject, speci
  
 Admission requirements:
 1. University degree with credit 180ETC
-
 2. GMAT or GRE (you can take the test and give to the school, there is no benchmark but the higher the better)
-
 3. Your writing paper (could be your thesis in University or Master)
-
 4. Your CV
-
 5. Motivation Letter (max 3 pages)
-
  
 ### Testimonial:
 Pros:
 
 • You can have a pre-assessment before official apply, it will help to navigate the profile, save time and cost.
-
 • State of art programs, elite students and professors, modern facility: green space, large hall, hug library, gym and sport hall.
-
 • Tuition is ridiculous good.
-
 • All programs were teaching in English.
-
 • Career Center is a big plus to bridge you with potential employer.
 
 Cons:
-
 • All programs require at least some work experience and if you are too much experience can considering over-qualify.
-
 • Working-permit is difficult, after study time, your visa will be expired. As the school mentioned they also help to prepare a working permit but you should consider as a factor.
 
 ### Final words:
 I have heard friends take about University St. Gallen, majority they mentioned positive and here today with my own eyes and first impression, I must come here to learn. Despite strictly permission of entry and location distance, I could have it a go by applying for a pre-assessment.
+
+### Updated
+I sent my certification for the pre-assessment and was denied by the school. The email drove me a sad morning, I could not think of anything than sadness. I thought the school is good and be able to learn here would be unique life experience. ALthough this is another brickwall added up to my challeging in Switzerland. One a gain, I think of the sentences I just learn in German "Zurückgehen war keine Option und Scheitern kam nicht infrage".
+Keep building, Hiep!
