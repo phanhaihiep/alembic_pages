@@ -16,21 +16,22 @@ image: "https://phanhaihiep.github.io/images/Hiep_Univerity_St_gallen.jpg"
 Switzerland offers the best education system in the world, in term of quality, facility, practical experience and flexibility. With a pleasure, I would bring you to a Elite Business School in Switzerland name University of St. Gallen, it is top 1 business school in Switzerland and has long history in their reputation name.
 
 I went to an Information day to check it out and would be attempt to prepare for the future learning path. The favorite of mine is Master of Banking and Finance or Master in Quantitative and Economics.
+{% include figure.html image="/images/MiQEF.jpg" position="center" width="600" height="500" %}
+{% include figure.html image="/images/MiQEF_circu.jpg" position="center" width="600" height="500" %}
 
 The information day agenda is pretty clear and well-structure, firstly conduct a general introduction and then campus-tour and lastly each program will have 1 hour to explain more in details. Choose the program you like and just walk in.
 
-{% include figure.html image="/images/Hiep_University_St_gallen.jpg" position="center" width="500" height="500" %}
+{% include figure.html image="/images/Hiep_University_St_gallen.jpg" position="center" width="600" height="500" %}
 Way to main building Foyer
 
-
+{% include figure.html image="/images/UST_Information_day.jpg" position="center" width="600" height="500" %}
 Each master program has each own information desk that you can ask, and there is table for general admission
 
-
+{% include figure.html image="/images/UST_sport_hall.jpg" position="center" width="600" height="500" %}
 A campus tour is guided too, the school is so large and green, has its own bar, sport hall, huge library
 
 ### Key figures
 A master degree takes 18 months (1,5 years to 2 years) in various subject, specialized in Business. Tuition for international student is 3,400CHF/Semester, one program is 3 semesters.
-
  
 Admission requirements:
 1. University degree with credit 180ETC
@@ -38,7 +39,9 @@ Admission requirements:
 3. Your writing paper (could be your thesis in University or Master)
 4. Your CV
 5. Motivation Letter (max 3 pages)
- 
+
+{% include figure.html image="/images/UST_class_room.jpg" position="center" width="600" height="500" %}
+{% include figure.html image="/images/UST_present.jpg" position="center" width="600" height="500" %}
 ### Testimonial:
 Pros:
 
@@ -54,7 +57,8 @@ Cons:
 
 ### Final words:
 I have heard friends take about University St. Gallen, majority they mentioned positive and here today with my own eyes and first impression, I must come here to learn. Despite strictly permission of entry and location distance, I could have it a go by applying for a pre-assessment.
+With a full of joy, I created a tiktok video here: https://vm.tiktok.com/ZM8xRx5CR/
 
-### Updated
+### Updated Nov 2021
 I sent my certification for the pre-assessment and was denied by the school. The email drove me a sad morning, I could not think of anything than sadness. I thought the school is good and be able to learn here would be unique life experience. ALthough this is another brickwall added up to my challeging in Switzerland. One a gain, I think of the sentences I just learn in German "Zurückgehen war keine Option und Scheitern kam nicht infrage".
 Keep building, Hiep!
