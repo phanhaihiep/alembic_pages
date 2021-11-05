@@ -4,7 +4,7 @@ feature_image: "https://phanhaihiep.github.io/images/HIEP_PHOTO.jpg"
 layout: page
 ---
 
-{% include figure.html image="/images/Hiep_PHOTO.jpg" position="left" width="270" height="720" %}
+{% include figure.html image="/images/HIEP_PHOTO.jpg" position="left" width="270" height="720" %}
 
 ### Hey there!
 
