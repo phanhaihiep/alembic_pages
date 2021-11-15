@@ -9,7 +9,7 @@ feature_text: |
 feature_image: "https://phanhaihiep.github.io/images/Hiep_Univerity_St_gallen.jpg"
 image: "https://phanhaihiep.github.io/images/Hiep_Univerity_St_gallen.jpg"
 ---
----
+
 (5 Minutes reading)
 
 ### What it is
@@ -44,15 +44,15 @@ Admission requirements:
 
 ### Testimonial:
 Pros:
-> You can have a pre-assessment before official apply, it will help to navigate the profile, save time and cost.
-> State of art programs, elite students and professors, modern facility: green space, large hall, hug library, gym and sport hall.
-> Tuition is ridiculous good.
-> All programs were teaching in English.
-> Career Center is a big plus to bridge you with potential employer.
+- You can have a pre-assessment before official apply, it will help to navigate the profile, save time and cost.
+-  State of art programs, elite students and professors, modern facility: green space, large hall, hug library, gym and sport hall.
+- Tuition is ridiculous good.
+- All programs were teaching in English.
+- Career Center is a big plus to bridge you with potential employer.
 
 Cons:
-> All programs require at least some work experience and if you are too much experience can considering over-qualify.
-> Working-permit is difficult, after study time, your visa will be expired. As the school mentioned they also help to prepare a working permit but you should consider as a factor.
+- All programs require at least some work experience and if you are too much experience can considering over-qualify.
+- Working-permit is difficult, after study time, your visa will be expired. As the school mentioned they also help to prepare a working permit but you should consider as a factor.
 
 ### Final words:
 I have heard friends take about University St. Gallen, majority they mentioned positive and here today with my own eyes and first impression, I must come here to learn. Despite strictly permission of entry and location distance, I could have it a go by applying for a pre-assessment.

@@ -16,7 +16,7 @@ When  #BTC  moves firmly back into price discovery above 70k then every holder w
 
 Actually it is, the Bitcoin supply circulation will be 21 million. We wouldn’t be able to get more than this number. Realistically devided everyone population in the world by 21 million. Then decide how much of that you would like to own/have influence over. The given number is 0.26 #btc ~ 260,000 sats (21 million divided by global population). So that anything above that is is a win.
 
-{% include figure.html image="/images/Bitcoin_prices.jpg" position="center" width="600" height="500" %}
+{% include figure.html image="/images/Bitcoin_Prices.jpg" position="center" width="600" height="500" %}
 
 ### So how much #Bitcoin  is "enough” to MAKE it in life?
 
