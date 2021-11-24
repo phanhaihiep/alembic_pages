@@ -1,7 +1,7 @@
 ---
 title: Django Python Function
 categories:
-- Software development
+- Computer science
 ---
 
 1. Python manage.py runserver
