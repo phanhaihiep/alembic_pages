@@ -1,5 +1,5 @@
 ---
-title: 100 days of code
+title: Day 1 of 100 days of code
 categories:
 - Computer science 
 
@@ -8,7 +8,7 @@ feature_text: |
 ---
 ( 2 minutes reading)
 
-### Day 1: BAND NAME GENERATOR
+### Project: BAND NAME GENERATOR
 1. Practice 2 hours a day for the next 100 days
  That can generate about 200 hours of learning new things.
  Learn step by step and apply to real projects
@@ -21,7 +21,7 @@ feature_text: |
 - strings: connect character
 - variables: refere to the value by using its name
 - indentatErrors:
-- pay attention with single quote '' and double quote "", small letter and captital letter
+- pay attention with single quote '' and double quote "", small letter and captital letter, pacing.
 - Ctr + / short cut for hastag
 
 4. Website reference:
@@ -38,3 +38,5 @@ city = input("What country did you grow up in?\n")
 pet = input("What is your pet name ?\n")
 #4. Combine the name of their city and pet and show them their band name.
 print("Your band name could be: " + city + " " + pet)
+
+https://replit.com/@HiepPhan/band-name-generator-start?v=1
